@@ -1,3 +1,8 @@
+UPDATE
+==
+This is a fork to bump *charm* to 1.0.2 in order to allow multiple progress bar being instantiated.
+
+
 Pace
 ====
 
