@@ -1,6 +1,6 @@
 FORK UPDATE
 ==
-This is a fork to bump **charm** to 1.0.1 in order to allow multiple progress bar being instantiated.
+This is a fork to bump **[charm](https://github.com/substack/node-charm)** to 1.0.1 in order to allow multiple progress bar being instantiated.
 
 
 Pace
